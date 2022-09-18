@@ -1,0 +1,12 @@
+/home/nicolas/c#/Mis Proyectos en c sharp/Numeros Romanos/NumerosRomanos/bin/Debug/NumerosRomanos.exe
+/home/nicolas/c#/Mis Proyectos en c sharp/Numeros Romanos/NumerosRomanos/bin/Debug/NumerosRomanos.pdb
+/home/nicolas/c#/Mis Proyectos en c sharp/Numeros Romanos/NumerosRomanos/obj/x86/Debug/NumerosRomanos.csprojAssemblyReference.cache
+/home/nicolas/c#/Mis Proyectos en c sharp/Numeros Romanos/NumerosRomanos/obj/x86/Debug/NumerosRomanos.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/Mis Proyectos en c sharp/Numeros Romanos/NumerosRomanos/obj/x86/Debug/NumerosRomanos.exe
+/home/nicolas/c#/Mis Proyectos en c sharp/Numeros Romanos/NumerosRomanos/obj/x86/Debug/NumerosRomanos.pdb
+/home/nicolas/c#/Mis Proyectos en c sharp/Numero       Romano/bin/Debug/NumerosRomanos.exe
+/home/nicolas/c#/Mis Proyectos en c sharp/Numero       Romano/bin/Debug/NumerosRomanos.pdb
+/home/nicolas/c#/Mis Proyectos en c sharp/Numero       Romano/obj/x86/Debug/NumerosRomanos.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/Mis Proyectos en c sharp/Numero       Romano/obj/x86/Debug/NumerosRomanos.exe
+/home/nicolas/c#/Mis Proyectos en c sharp/Numero       Romano/obj/x86/Debug/NumerosRomanos.pdb
+/home/nicolas/c#/Mis Proyectos en c sharp/Numero       Romano/obj/x86/Debug/NumerosRomanos.csproj.AssemblyReference.cache

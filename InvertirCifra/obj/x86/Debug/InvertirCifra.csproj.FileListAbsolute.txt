@@ -1,0 +1,6 @@
+/home/nicolas/c#/Mis Proyectos en c sharp/InvertirCifra/bin/Debug/InvertirCifra.exe
+/home/nicolas/c#/Mis Proyectos en c sharp/InvertirCifra/bin/Debug/InvertirCifra.pdb
+/home/nicolas/c#/Mis Proyectos en c sharp/InvertirCifra/obj/x86/Debug/InvertirCifra.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/Mis Proyectos en c sharp/InvertirCifra/obj/x86/Debug/InvertirCifra.exe
+/home/nicolas/c#/Mis Proyectos en c sharp/InvertirCifra/obj/x86/Debug/InvertirCifra.pdb
+/home/nicolas/c#/Mis Proyectos en c sharp/InvertirCifra/obj/x86/Debug/InvertirCifra.csproj.AssemblyReference.cache
