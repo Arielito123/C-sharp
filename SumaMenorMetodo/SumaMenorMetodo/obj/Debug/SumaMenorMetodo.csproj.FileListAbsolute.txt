@@ -1,0 +1,9 @@
+C:\c#\SumaMenorMetodo\SumaMenorMetodo\bin\Debug\SumaMenorMetodo.exe.config
+C:\c#\SumaMenorMetodo\SumaMenorMetodo\bin\Debug\SumaMenorMetodo.exe
+C:\c#\SumaMenorMetodo\SumaMenorMetodo\bin\Debug\SumaMenorMetodo.pdb
+C:\c#\SumaMenorMetodo\SumaMenorMetodo\obj\Debug\SumaMenorMetodo.csprojResolveAssemblyReference.cache
+C:\c#\SumaMenorMetodo\SumaMenorMetodo\obj\Debug\SumaMenorMetodo.exe
+C:\c#\SumaMenorMetodo\SumaMenorMetodo\obj\Debug\SumaMenorMetodo.pdb
+C:\c#\Trabajo en clases\SumaMenorMetodo\SumaMenorMetodo\bin\Debug\SumaMenorMetodo.exe.config
+C:\c#\Trabajo en clases\SumaMenorMetodo\SumaMenorMetodo\obj\Debug\SumaMenorMetodo.exe
+C:\c#\Trabajo en clases\SumaMenorMetodo\SumaMenorMetodo\obj\Debug\SumaMenorMetodo.pdb
